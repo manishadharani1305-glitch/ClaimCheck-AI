@@ -29,8 +29,6 @@ Documents can contain claims that are difficult to manually verify. ClaimCheck A
         ↓
 📊 Verification Report
 
-<img width="1391" height="960" alt="Screenshot 2026-10-05 223403" src="https://github.com/user-attachments/assets/12ccb785-a643-4978-9540-5c374c0d1797" />
-
 ---
 
 ## ✨ Key Features
